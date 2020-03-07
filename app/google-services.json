@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "423877813420",
+    "firebase_url": "https://ejemplo-insertar-datos-baf23.firebaseio.com",
+    "project_id": "ejemplo-insertar-datos-baf23",
+    "storage_bucket": "ejemplo-insertar-datos-baf23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423877813420:android:69a365556b1e1c79b56b09",
+        "android_client_info": {
+          "package_name": "com.ejemplo.insert.database.firebase_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423877813420-cmf69g7dt7mbuco0huqreeat0datt57k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ejemplo.insert.database.firebase_android",
+            "certificate_hash": "660cf57ac68b873b0e2f3506439dd9cc18f297f6"
+          }
+        },
+        {
+          "client_id": "423877813420-fski3u7a1s3q7sc2p2otv4k7qutobr9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuUqlcblVFzAFhSyyOuBILpIkd-6Xk9_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423877813420-fski3u7a1s3q7sc2p2otv4k7qutobr9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
